@@ -65,10 +65,10 @@ Developing a secure image encryption
  - Choose the image to be encrypted - after getting the success message, two files will be saved on your system, with the same name (as that of the original image), one for the ciphertext( .enc )and the other for the key file( .key ) (look for them in downloads section of your system)
  - Delete the original image from your system
  - At this stage, the image is well encrypted and can be decrypted, whenever necessary
- - To decrypt it, choose a file to be decrypted (which is the ciphertext ) and the corresponding key file ( You will have to login again, whenever you close the program)
+ - To decrypt it, choose the file to be decrypted (which is the ciphertext ) and the corresponding key file ( You will have to login again, whenever you close the program)
  - Enter the name in SaveAs, as you wish to save it and it will be decrypted and saved on your system. (* A popup message will show up reading " Image decrypted successfully. ")
 
-#### *NOTE - if you didn't get the popup message, then that signifies that decryption was unsuccessful and please recheck that both the files(ciphertext and key) are of the same encrypted image.
+#### *NOTE - if you didn't get the popup message, then it signifies that decryption was unsuccessful and please recheck that both the files(ciphertext and key) are of the same encrypted image.
  
 ## Team Members
 
