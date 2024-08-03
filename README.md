@@ -84,7 +84,7 @@ Developing a secure image encryption
 
 #### What can we do to improve this program?
 
-Well, a lot can be done to improve it. Firstly, we can create a central database (using for eg - Django). Additionally, we can create a UI, which allows users to share images among themselves, with algorithm implementaion.
+Well, a lot can be done to improve it. Firstly, we can create a central database (using for eg - Django). Additionally, we can create a UI, which allows users to share images among themselves, with algorithm implementation.
 
 #### What is the basic principle of this hybrid system?
 
