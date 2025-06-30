@@ -4,6 +4,9 @@
 
 This repository is for IITISOC_2024_PS3 in the cybersecurity domain, which deals with the development and implementation of a secure image encryption system.
 
+### Project ppt -
+- [📄 View Project Presentation (PDF)](Project%20Presentation_SOC24.pdf)
+
 
 ## Table of Contents
 
@@ -13,6 +16,7 @@ This repository is for IITISOC_2024_PS3 in the cybersecurity domain, which deals
   - User Authentication
   - Key Management
   - GUI Interface
+- #### Snippets
 - #### Usage
 - #### Team Members 
 - #### Some Questions
@@ -48,7 +52,9 @@ Developing a secure image encryption
    - Provides options for selecting images and performing encryption/decryption.
 
 
-   
+## Snippets - 
+   - ![Screenshot1](SS1.png)
+   - ![Screenshot2](SS2.png)
 
 
 
